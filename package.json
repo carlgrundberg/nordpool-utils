@@ -1,0 +1,17 @@
+{
+  "name": "nordpool-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dayjs": "^1.10.8",
+    "nordpool": "^4.0.0"
+  }
+}
